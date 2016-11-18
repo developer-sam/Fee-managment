@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+.wrapper
+{
+	margin-top:auto;
+	background-color:#E817D3;
+	height:600px;
+	width:auto;
+}
+.header
+{
+
+width:auto;
+height:100px;
+background-color:#ff00ff;	
+}
+.container
+{
+	float:left;
+background-color:#ffff00;
+margin-left:auto;
+width:200px;
+height:600px;
+}
+.sidebar
+{
+	
+	height:600px;
+	width:auto;
+	background-color:#00ff00;
+	margin-left:100px;
+}
